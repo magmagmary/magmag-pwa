@@ -20,7 +20,7 @@
     "web-push": "3.6.7"
   },
   "devDependencies": {
-    "dotenv": "16.4.7",
+    "dotenv": "16.6.1",
     "firebase-functions-test": "3.4.0",
     "formidable-serverless": "1.1.1"
   },
